@@ -1,2 +1,2 @@
 # clothing-swap
-project is uplodedafter compliting
+project is uploded after compliting
